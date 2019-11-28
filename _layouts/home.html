@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    <section class="header">
+      <div class="site-title">
+        {{ site.title }}
+      </div>
+
+      <div class="menu">
+        <div class="menu-option" data-menu-tag="POSS">POSSIBILITIES</div>
+        <div class="menu-option" data-menu-tag="REFS">REFERENCES</div>
+        <div class="menu-option selected" data-menu-tag="READ">READINGS</div>
+      </div>
+    </section>
+
+    <div class="content-wrapper">
+      <div class="home-loader-wrapper">
+        <div id="home-loader" class="lds-dual-ring"></div>
+      </div>
+
+      <section class="content">
+        {% include possibilities.html %}
+        {% include references.html %}
+        {% include readings.html %}
+      </section>
+
+      <section class="social-footer">
+        {% include social-icons.html %}
+      </section>
+    </div>
+  </body>
+</html>

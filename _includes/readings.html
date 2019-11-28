@@ -1,0 +1,25 @@
+<div id="content-READ" class="content-tab content-readings">
+  {% if site.data.readings %}
+    {% assign sortedReadings = site.data.readings | sort:'year' %}
+    {% for r in sortedReadings %}
+
+      <div class="reading-item" id="{{ r.title | url_encode }}">
+        <div class="reading-title">
+          <a href="{{ r.link }}" target="_blank">{{ r.title }} ({{ r.year }})</a>
+          <br>{{ r.author }}
+        </div>
+
+        <div class="reading-notes">
+          {{ r.notes }}
+        </div>
+
+        <ul class="reading-tags">
+          {% for tag in r.tags %}
+            <li class="reading-tag">{{ tag }}</li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    {% endfor %}
+  {% endif %}
+</div>

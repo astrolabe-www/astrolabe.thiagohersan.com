@@ -1,0 +1,149 @@
+- title: Stonehenge
+  image: 'media/images/references/stonehenge.jpg'
+  text: 'Structure formed by stone circles, built between 3000 and 2000 BC in England. Despite much speculation about their true functionality, the placement of the stones correspond precisely to celestial events. In addition to signaling specific dates of celestial alignments (solstices and equinoxes), there is evidence that the structure could also have been used to predict eclipses.'
+  links:
+    - 'https://blog.stonehenge-stone-circle.co.uk/2017/01/04/stonehenge-eclipse-predictor/'
+    - 'media/docs/stonehenge.pdf'
+    - 'https://en.wikipedia.org/wiki/Archaeoastronomy'
+
+- title: Astrolabe
+  image: 'media/images/references/astro_02.jpg'
+  text: 'Ancient instrument used by Islamic astronomers since 550 AD to measure time, locations and distances. Outside the Islamic world, this measuring device had its moment in European history: it was essential in the dissemination and teaching of Islamic geometry during the Renaissance, and later, during the age of empires, it was instrumental in maritime "discovery" expeditions.'
+  links:
+    - 'https://www.youtube.com/watch?v=N8oWGwcdFmA'
+
+- title: Intra-action
+  image: 'media/images/references/intraaction.jpg'
+  text: 'Proposed concept as an alternative / counterpoint to "interaction". Interaction requires pre-established subjects who then participate in actions with each other. Intra-action understands agency not as an inherent property of a subject, but as a dynamism of forces in which all bodies are constantly changing, influencing, and working inseparably.'
+  links:
+    - 'https://www.youtube.com/watch?v=v0SnstJoEec'
+    - 'https://newmaterialism.eu/almanac/i/intra-action.html'
+
+- title: Hyperobjectss
+  image: 'media/images/references/hyper.jpg'
+  text: 'Concept used to analyze the materiality and complexity of current "natural" systems (global warming, pre-salt oil reserves, ...) and "built" systems (internet as surveillance, Machine Learning, ...), which cannot be understood from a single ontological standpoint (social, economic, technological, cultural, philosophical, etc ...).'
+  links:
+    - 'https://www.youtube.com/watch?v=NS8b87jnqnw&list=PLPHUNIinGAgWFz73r-EBobkQErkQK2vaq'
+
+- title: Situated Knowledges
+  image: 'media/images/references/situated.jpg'
+  text: 'It''s mpossible to depend on an objectivity where devices (technology, media, instrument used to measure something) or the person using a device is not considered part of the process that allows for results and measurements. The boundaries of any object of study materializes in <a href="#Intra-action">social interactions</a> and therefore are constantly shifting and being redefined. These boundaries are drawn by mapping practices; "objects" of study do not exist before that.'
+  links:
+    - 'https://monoskop.org/images/6/6e/Haraway_Donna_1988_Situated_Knowledges_The_Science_Question_in_Feminism_and_the_Privilege_of_Partial_Perspective.pdf'
+    - 'https://archandphil.wordpress.com/2013/10/02/revisualising-worlds-a-manifesto-against-the-tyranny-of-objectivity/'
+    - 'https://intoruins.wordpress.com/2011/02/18/grayson-perry-and-situated-knowledges-map-of-nowhere/'
+
+- title: Units of Measure
+  image: 'media/images/references/medida.jpg'
+  text: '<a href="https://en.wikipedia.org/wiki/Foot_(unit)" target="_blank">Feet</a>,
+  <a href="https://en.wikipedia.org/wiki/Inch" target="_blank">inches</a>,
+  <a href="https://en.wikipedia.org/wiki/Pace_(unit)" target="_blank">paces</a>,
+  <a href="https://en.wikipedia.org/wiki/Cubit" target="_blank">cubits</a>,
+  <a href="https://en.wikipedia.org/wiki/Mile#Roman_mile" target="_blank">miles</a>,
+  <a href="https://en.wikipedia.org/wiki/League_(unit)#Mexico" target="_blank">leagues</a>... The variety of units of measurement based on the human body used throughout the centuries reveals the anthropocentrism of measuring, and at the same time also suggests how much measuring is an action that entangles the bodies involved.'
+  links:
+    - 'https://en.wikipedia.org/wiki/List_of_human-based_units_of_measure'
+    - 'https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement'
+
+- title: Andria
+  image: 'media/images/references/invisible_cities.jpg'
+  text: 'One of the invisible cities of Italo Calvino. This city was designed and built to be an exact reflection of the sky and its heavenly bodies. Changes in Andria correspond to changes in the cosmos, and vice versa. An invitation to think about the reach of human influence on the universe, and vice versa.'
+  links:
+    - 'media/docs/Calvino_Andria.pdf'
+
+- title: Eudoxia
+  image: 'media/images/references/eudoxia.jpg'
+  text: 'Another of the invisible cities. Eudoxia has a map in the shape of a carpet. It is not known which one of the two objects, city or carpet, follows the perfect order of the universe, and which one is just an approximation of the other. This city highlights some relevant connections and entanglements between city, map, universe and forms of representation.'
+  links:
+    - 'media/docs/Calvino_Eudoxia.pdf'
+
+- title: Perinthia
+  image: 'media/images/references/perinthia.jpg'
+  text: 'Another of Italo Calvino''s invisible cities. Perinthia was planned by astronomers who followed the placement of stars to dictate the construction of buildings, neighborhoods and borders. Aligned with eclipses and other celestial events, the city would mirror the harmony and reason of nature, but after a few generations the city found itself populated by "monsters". Latour''s monsters and Haraway''s <a href="#Cyborg+Manifesto">cyborgs</a> are also the result of mixing science, politics, nature and culture.'
+  links:
+    - 'media/docs/Calvino_Perinzia.pdf'
+
+- title: Clarke Belt
+  image: 'media/images/references/clarke.jpg'
+  text: 'Name given to the group of geostationary satellites orbiting the earth over the equator at a distance of about 36,000 km from the earth''s surface. At this altitude the satellites rotate around the earth at the same speed that the earth rotates around itself, making each of them appear stationary from a terrestrial point of view. These satellites are generally used for communications and observation of specific regions.'
+  links:
+    - 'https://en.wikipedia.org/wiki/Geostationary_orbit'
+    - 'https://en.wikipedia.org/wiki/Geosynchronous_satellite'
+    - 'https://en.wikipedia.org/wiki/List_of_satellites_in_geosynchronous_orbit'
+    - 'https://www.ucsusa.org/resources/satellite-database#.W7WcwpMza9Y'
+
+- title: Frequency Allocation
+  image: 'media/images/references/faixas-frequencias.jpg'
+  text: 'Process by which regulatory agencies divide the electromagnetic spectrum and distribute the use of frequencies between 3 kHz and 275 GHz to specific services. In Brazil <a href="https://www.anatel.gov.br/" target="_blank">ANATEL</a> is the body responsible for authorizing, managing, regulating and distributing these frequency bands for commercial, public, military and educational uses. In the USA, the FCC and the Department of Commerce have similar responsibilities.'
+  links:
+    - 'media/docs/FAIXAS-DE-FREQUENCIAS-Anatel-2018.pdf'
+    - 'media/docs/spectrum_wall_chart_2016.pdf'
+    - 'https://www.teleco.com.br/en/default.asp'
+
+- title: Yagi-Uda
+  image: 'media/images/references/yagi.jpg'
+  text: 'Type of directional antenna used for transmitting and receiving radio, TV, UHF, and Wi-Fi signals. The active antenna element is usually a half-wave dipole antenna, while the other (parasitic) elements direct the signals being transmitted/received.'
+  links:
+    - 'https://www.electronics-notes.com/articles/antennas-propagation/yagi-uda-antenna-aerial/basics-overview.php'
+    - 'http://www.k7mem.com/Ant_Yagi_VHF.html'
+    - 'http://bcbj.org/antennae/lte_yagi_diy.htm'
+    - 'https://www.changpuak.ch/electronics/yagi_uda_antenna_DL6WU.php'
+
+- title: Xenofeminist Manifesto
+  image: 'media/images/references/xenofeminism.jpg'
+  text: 'Referencing that which is foreign, alien, excluded, and culturally "unnatural", xenofeminism is a proposal to reimagine feminism''s emancipatory potential in times of automation, globalization, and digital revolutions. It proposes to destroy gender, dismantle the "family", prohibit the use of nature as a guarantor of unequitable political positions, and to denaturalize the disciplines of science, technology, and rationalism, rejecting the idea that they are inherently masculine or patriarchal.'
+  links:
+    - 'https://www.laboriacuboniks.net'
+    - 'http://arkbooks.dk/what-is-xenofeminism/'
+    - 'https://medium.com/@like_antennas_to_heaven/xenofeminism-the-tldr-fbae19571cdd'
+
+- title: Cyborg Manifesto
+  image: 'media/images/references/cyborg.jpg'
+  text: 'Cyborg is a metaphor used to think about our present condition of fragmented identities and socio-techno-political realities. As a result of the mixture of the biological and technological, the cyborg is a figure whose history is hybrid, multiple and transgressive by nature. Pointing to the far future, the manifesto predicted the impossibility of maintaining some of the fundamental divisions of Western thought implied in the dichotomies between nature/culture, body/mind, animal/human.'
+  links:
+    - 'https://monoskop.org/images/4/4c/Haraway_Donna_1985_A_Manifesto_for_Cyborgs_Science_Technology_and_Socialist_Feminism_in_the_1980s.pdf'
+    - 'http://newmaterialism.eu/almanac/c/cyborg.html'
+
+- title: Ley Lines
+  image: 'media/images/references/ley-lines.jpg'
+  text: 'Supposed alignments of places of historical, political and/or geographical significance around the world. The idea that these points are connected by mystical/cosmic magnetic energy is controversial and based on pseudoscientific processes. Even so, it is still a reference for an imaginary, extensive, expanded and globalized cartography.'
+  links:
+    - 'https://allthatsinteresting.com/ley-lines'
+    - 'http://www.kanaga.tv/story/ley-lines.html'
+    - 'https://en.wikipedia.org/wiki/Archaeoastronomy'
+
+- title: Deep Media Archaeology
+  image: 'media/images/references/deepmedia.jpg'
+  text: 'Study of the extension, materiality and by-products of media and their infrastructures. It understands infrastructure as an infinite regression of relationships, which, despite its material elements, can never be reduced to a "thing" because it also includes conceptual objects such as measurement standards, classification systems, and technical protocols. Archeology provides a way to track how technology, architecture, economics, and other social practices are connected to media production.'
+  links:
+    - 'https://monoskop.org/images/8/8c/Mattern_Shannon_Deep_Mapping_the_Media_City_2015.pdf'
+    - 'media/docs/parikka-anthrobscene.pdf'
+    - 'https://www.cjc-online.ca/index.php/journal/article/view/1389/1467'
+
+- title: Amerindian Perspectivism
+  image: 'media/images/references/perspectivism.jpg'
+  text: 'It refers to a synthesis of certain aspects of the cosmologies of Amerindian peoples, which have in common the belief that the world is populated by many species of human and non-human beings endowed with spirit, consciousness and culture. Each of these species sees itself as human, seeing all others as nonhuman, and are perceived by other species as animals, spirits, or nonhuman forms. Who or what sees a satellite as a human?'
+  links:
+    - 'http://ea.fflch.usp.br/conceito/perspectivismo-ameríndio'
+
+- title: Technique / Technology / Technicity / Techne
+  image: 'media/images/references/tech.jpg'
+  text: 'Technology and body are inextricably intertwined in a way that there is no natural, technologically untouched body. The relationship between technology and the body must be understood as a relationship of undetermined boundaries. Technologies are not mediations, are not things between bodies, but developments and connections, together with which exchanges between the living being and its environment happen.'
+  links:
+    - 'https://revistas.ufpr.br/doispontos/article/download/36861/25407'
+    - 'http://newmaterialism.eu/almanac/t/technology-technicity-techne.html'
+
+- title: Performativity
+  image: 'media/images/references/performativ.jpg'
+  text: 'Linguistic potential that is also an action (or becoming) with physical-materialistic consequences; Language is not just a way of describing, but a force that constructs. Gender, for example, is not just a category that describes a set of actions and behaviors, but rather the way in which these actions and behaviors are described and materialized as a result of an identity that is constantly redefined through discursive acts and symbolic communication.'
+  links:
+    - 'https://www.uio.no/studier/emner/sv/sai/SOSANT4400/v14/pensumliste/barad_posthumanist-performativity.pdf'
+    - 'https://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0114.xml'
+    - 'http://newmaterialism.eu/almanac/p/performativity.html'
+
+- title: Hybrid Networks
+  image: 'media/images/references/hybrid.jpg'
+  text: 'Modern societies differentiate between nature and culture, whereas premodern societies do not make that distinction. Within these modern societies, a hybrid is something that combines aspects that would traditionally be considered separately in their respective natural and social domains. For example, in a scientific context what is called a natural phenomenon is actually an association that would not have been possible without the laboratory, the research program, and the specific way of describing it.'
+  links:
+    - 'https://monoskop.org/images/e/e4/Latour_Bruno_We_Have_Never_Been_Modern.pdf'
+    - 'https://larvalsubjects.wordpress.com/2009/04/29/latour-hybrids/'
