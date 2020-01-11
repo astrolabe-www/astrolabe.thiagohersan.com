@@ -113,6 +113,20 @@ a {
   }
 }
 
+.content-intro {
+  .intro-stage {
+    padding: 20px 16px 24px;
+  }
+
+  .intro-stage-title {
+    font-size: 18px;
+  }
+
+  .swipebox-gallery {
+    margin: 16px 0;
+  }
+}
+
 .content-possibilities {
   .flex-wrapper {
     display: flex;
@@ -157,7 +171,7 @@ a {
 .content-references {
   .refe-content {
     .refe-stage {
-      padding: 2px 16px 24px;
+      padding: 20px 16px 24px;
     }
 
     .refe-stage + .refe-stage {
