@@ -68,6 +68,19 @@ a {
     color: $TEXT-HIGHLIGHT-COLOR;
   }
 
+  #menu-desktop {
+    display: none;
+    @include media-query(DESKTOP) {
+      display: flex;
+    }
+  }
+  #menu-mobile {
+    display: flex;
+    @include media-query(DESKTOP) {
+      display: none;
+    }
+  }
+
   .menu {
     display: flex;
     flex-direction: row;
