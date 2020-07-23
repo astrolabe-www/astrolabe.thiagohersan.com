@@ -1,4 +1,4 @@
 ---
-title: 'Astrolabe Astronomy'
+title: 'Other Astronomy'
 permalink: /
 ---
