@@ -66,6 +66,8 @@ a {
     text-align: center;
     font-size: $TITLE-SIZE;
     color: $TEXT-HIGHLIGHT-COLOR;
+    text-transform: uppercase;
+    letter-spacing: 2px;
   }
 
   #menu-desktop {
@@ -141,41 +143,23 @@ a {
 }
 
 .content-possibilities {
-  .flex-wrapper {
-    display: flex;
-    flex-direction: row;
-
-    .possibilities-diagram-wrapper {
-      width: 9%;
-      max-width: 100px;
-      display: flex;
-      justify-content: flex-end;
-
-      .possibilities-diagram {
-        padding-bottom: 350%;
-        width: 16px;
-        background-color: $TEXT-HIGHLIGHT-COLOR;
-      }
+  .possibilities-content {
+    width: auto;
+    @include media-query(DESKTOP) {
+      width: 95%;
     }
 
-    .possibilities-content {
-      width: auto;
-      @include media-query(DESKTOP) {
-        width: 95%;
+    .possibilities-stage {
+      padding: 16px;
+
+      .possibilities-stage-gallery-caption {
+        padding: 4px 8px;
+        font-style: italic;
+        font-weight: normal;
       }
 
-      .possibilities-stage {
-        padding: 16px;
-
-        .possibilities-stage-gallery-caption {
-          padding: 4px 8px;
-          font-style: italic;
-          font-weight: normal;
-        }
-
-        .possibilities-stage-title {
-          font-size: 18px;
-        }
+      .possibilities-stage-title {
+        font-size: 18px;
       }
     }
   }
