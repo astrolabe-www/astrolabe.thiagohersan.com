@@ -1,6 +1,6 @@
 <div id="content-READ" class="content-tab content-readings">
   {% if site.data.readings %}
-    {% assign sortedReadings = site.data.readings | sort:'year' %}
+    {% assign sortedReadings = site.data.readings | where_exp:"p", "p.notes and p.notes != ''" | sort:'year' %}
     {% for r in sortedReadings %}
 
       <div class="reading-item" id="{{ r.title | url_encode }}">
