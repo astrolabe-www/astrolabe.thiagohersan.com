@@ -162,7 +162,7 @@
     - 'significant otherness'
     - 'companion species'
 
-- title: 'L''économie, science des intérêts passionnés: Introduction à l''anthropologie économique de Gabriel Tarde'
+- title: 'L’économie, science des intérêts passionnés: Introduction à l’anthropologie économique de Gabriel Tarde'
   author: 'Bruno Latour & Vincent Antonin Upinay'
   year: '2008'
   link: 'https://aaaaarg.fail/upload/bruno-latour-the-science-of-passionate-interests-an-introduction-to-gabriel-tardes-economic-anthropology.pdf'
@@ -410,7 +410,7 @@
     - 'Xenofeminism'
     - 'Accelerationism'
 
-- title: 'The A-Z of Gravity''s End: Your Ultimate Guide to Free Fall and Levitation'
+- title: 'The A-Z of Gravity’s End: Your Ultimate Guide to Free Fall and Levitation'
   author: 'Bjørn Hegardt and Theo Ågren'
   year: '2019'
   link: 'https://www.brokendimanche.eu/shop-1/the-a-z-guide-of-gravitys-end-your-ultimate-guide-to-free-fall-and-levitation'
@@ -450,6 +450,16 @@
   tags:
     - 'human/animal'
     - 'astrology'
+
+- title: 'Trópicos Utópicos'
+  author: 'Eduardo Giannetti'
+  year: '2016'
+  link: 'https://aaaaarg.fail/upload/eduardo-giannetti-tropicos-utopicos.pdf'
+  notes: 'This book begins by setting up science as a kind of straw-person for the root of all of humanity''s ills throughout the ages, while talking about economy and systems of trade as neutral reflections of human desires that have previously been corrupted by technology. Creates a kind of Technontology where science and technology seem to predate everything. Ends with even triter sections that seem to outline the moral superiority of indigenous and brazilian cultures... whatever that might mean. And, a lot of his utopic prattle about a Brazilian Civilization seem quaint and outdated after only three years of being published, given the current political situation in Brazil. Despite very shallow excursions into philosophical and social platitudes, it has a few good points about the connection between the environment and our internal, psychological ecology.'
+  tags:
+    - 'science/technology/economy'
+    - 'idealism/practice'
+    - 'technontology'
 
 - title: 'Totem and Taboo'
   author: 'Sigmund Freud'
@@ -497,6 +507,16 @@
     - 'destructive plasticity'
     - 'accident'
 
+- title: 'The Left Hand of Darkness'
+  author: 'Ursula K. Le Guin'
+  year: '1969'
+  link: 'https://aaaaarg.fail/upload/ursula-k-le-guin-the-left-hand-of-darkness-1.pdf'
+  notes: ''
+  tags:
+    - 'science fiction'
+    - 'sex/gender'
+    - 'alien natures'
+
 - title: 'The Alchemy of Empire: Abject Materials and the Technologies of Colonialism'
   author: 'Rajani Sudan'
   year: '2016'
@@ -517,6 +537,16 @@
     - ''
     - ''
 
+- title: 'Animalescos'
+  author: 'Gonçalo M. Tavares'
+  year: '2013'
+  link: ''
+  notes: ''
+  tags:
+    - 'fiction'
+    - ''
+    - ''
+
 - title: 'Le Città Invisibili'
   author: 'Italo Calvino'
   year: '1972'
@@ -524,6 +554,16 @@
   notes: ''
   tags:
     - 'fiction'
+    - ''
+    - ''
+
+- title: 'Making Trouble: Surrealism and the Human Sciences'
+  author: 'Derek Sayer'
+  year: '2017'
+  link: ''
+  notes: ''
+  tags:
+    - ''
     - ''
     - ''
 
@@ -539,6 +579,16 @@
 
 - title: '2001 and Counting: Kubrick, Nietzsche, and Anthropology'
   author: 'Bruce Kapferer'
+  year: '2014'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'The Anthrobscene'
+  author: 'Jussi Parikka'
   year: '2014'
   link: ''
   notes: ''
@@ -637,6 +687,56 @@
     - ''
     - ''
 
+- title: 'Obs'
+  author: 'Sam Skinner'
+  year: '2019'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'Recusa do Não-Lugar'
+  author: 'Juliano Garcia Pessanha'
+  year: '2000'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'Sol Artificial'
+  author: 'J. P. Zooey'
+  year: '2020'
+  link: ''
+  notes: ''
+  tags:
+    - 'fiction'
+    - ''
+    - ''
+
+- title: 'La Voie Du Tarot'
+  author: 'Alejandro Jodorowsky and Marianne Costa'
+  year: '2004'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'Mount Analogue: A Novel of Symbolically Authentic Non-Euclidean Adventures in Mountain Climbing'
+  author: 'René Daumal'
+  year: '1952'
+  link: ''
+  notes: ''
+  tags:
+    - 'fiction'
+    - ''
+    - ''
+
 - title: 'Medical Technics'
   author: 'Don Ihde'
   year: '2019'
@@ -660,6 +760,46 @@
 - title: 'Relatividade & Causalidade Temporal'
   author: 'Rubens Machado'
   year: '2017'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'The End of Man: A Feminist Counterapocalypse'
+  author: 'Joanna Zylinska'
+  year: '2018'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'Theory for the World to Come'
+  author: 'Matthew J. Wolf-Meyer'
+  year: '2019'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
+- title: 'Night Of Serious Drinking, A'
+  author: 'Rene Daumal'
+  year: '1938'
+  link: ''
+  notes: ''
+  tags:
+    - 'fiction'
+    - ''
+    - ''
+
+- title: 'Pataphysical Essays'
+  author: 'René Daumal'
+  year: '1941'
   link: ''
   notes: ''
   tags:
@@ -757,6 +897,16 @@
     - ''
     - ''
 
+- title: 'Testo Junkie'
+  author: 'Paul B. Preciado'
+  year: '2008'
+  link: ''
+  notes: ''
+  tags:
+    - ''
+    - ''
+    - ''
+
 - title: 'Ankh: African Origin of Electromagnetism'
   author: 'Nur Ankh Amen'
   year: '2001'
@@ -796,6 +946,17 @@
     - ''
     - ''
     - ''
+
+- title: 'No Speed Limit: Three Essays on Accelerationism'
+  author: 'Steven Shaviro'
+  year: '2015'
+  link: ''
+  notes: ''
+  tags:
+    - 'accelerationism'
+    - 'human/machine'
+    - 'capitalism'
+    - 'economy'
 
 - title: 'Bestiary of the Anthropocene, A'
   author: 'Nicolas Nova & Disnovation.org'
